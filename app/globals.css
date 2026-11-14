@@ -1123,7 +1123,7 @@ svg {
     min-height: auto;
     background-image:
       linear-gradient(90deg, rgba(16, 31, 27, 0.94), rgba(16, 31, 27, 0.8)),
-      url("/Samagra-hero.webp");
+      url("/hero.jpg");
     background-position: 62% center;
   }
   .hero-content {
